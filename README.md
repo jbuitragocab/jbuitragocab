@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Javier Buitrago
+# 👋 Hi there! I'm Javier Buitrago 🤘🏻
 
 I'm a **frontend developer** based in **Madrid**, passionate about building clean, functional, and engaging web experiences. While my main focus is frontend development, I've also worked with backend technologies, which gives me a broader perspective on full-stack development.
 
@@ -26,15 +26,7 @@ I'm currently **finishing my studies** and **looking for job opportunities** whe
 
 ---
 
-## 📌 Featured Projects
-
-> *(Here are a few examples. Let me know if you want to list real ones!)*
-
 ### 🔧 [Portfolio Website](https://jbuitragocab.github.io/)
-A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.
-
-### 📊 Task Tracker (Coming Soon)
-A simple task management tool built with Django and Bootstrap to practice backend + frontend integration.
 
 ---
 
