@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi there! I'm Javier Buitrago
 
-<!--
-**jbuitragocab/jbuitragocab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **frontend developer** based in **Madrid**, passionate about building clean, functional, and engaging web experiences. While my main focus is frontend development, I've also worked with backend technologies, which gives me a broader perspective on full-stack development.
 
-Here are some ideas to get you started:
+I'm currently **finishing my studies** and **looking for job opportunities** where I can keep learning, contribute to meaningful projects, and grow professionally in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- HTML, CSS, JavaScript  
+- Java, Python, PHP, Bash
+
+**Frameworks & Tools:**
+- Laravel (PHP)  
+- Django (Python)
+
+**Others:**
+- Git & GitHub  
+- Terminal / Bash scripting
+
+---
+
+## 🌐 Connect with me
+
+- 📫 Email: [javierbc2223@gmail.com](mailto:javierbc2223@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jbctsmr](https://www.linkedin.com/in/jbctsmr/)  
+- 🌍 Portfolio: [jbuitragocab.github.io](https://jbuitragocab.github.io/)
+
+---
+
+## 🚀 Goals
+
+- Strengthen my web development skills  
+- Collaborate on real-world and open-source projects  
+- Learn new technologies and agile methodologies  
+- Write clean, scalable, and maintainable code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbuitragocab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=jbuitragocab&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✨ About Me
+
+I'm a hands-on learner who enjoys solving problems, automating tasks, and understanding how technologies work under the hood. I'm committed, self-taught, and highly motivated to start applying my knowledge in a professional environment.
+
+> *"Continuous learning is the key to growth."*
+
+---
+
+Thanks for visiting my profile! 🚀
