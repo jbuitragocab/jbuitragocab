@@ -49,12 +49,4 @@ I'm currently **finishing my studies** and **looking for job opportunities** whe
 
 ---
 
-## ✨ About Me
-
-I'm a hands-on learner who enjoys solving problems, automating tasks, and understanding how technologies work under the hood. I'm committed, self-taught, and highly motivated to start applying my knowledge in a professional environment.
-
-> *"Continuous learning is the key to growth."*
-
----
-
 Thanks for visiting my profile! 🚀
