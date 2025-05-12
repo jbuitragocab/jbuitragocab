@@ -8,17 +8,33 @@ I'm currently **finishing my studies** and **looking for job opportunities** whe
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- HTML, CSS, JavaScript  
-- Java, Python, PHP, Bash
+**Languages & Tools:**
 
-**Frameworks & Tools:**
-- Laravel (PHP)  
-- Django (Python)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Others:**
-- Git & GitHub  
-- Terminal / Bash scripting
+---
+
+## 📌 Featured Projects
+
+> *(Here are a few examples. Let me know if you want to list real ones!)*
+
+### 🔧 [Portfolio Website](https://jbuitragocab.github.io/)
+A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.
+
+### 📊 Task Tracker (Coming Soon)
+A simple task management tool built with Django and Bootstrap to practice backend + frontend integration.
 
 ---
 
