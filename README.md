@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Javier Buitrago 🤘🏻
+# 👋🏻 Hi there! I'm Javier Buitrago 🤘🏻
 
 I'm a **frontend developer** based in **Madrid**, passionate about building clean, functional, and engaging web experiences. While my main focus is frontend development, I've also worked with backend technologies, which gives me a broader perspective on full-stack development.
 
